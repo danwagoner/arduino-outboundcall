@@ -7,4 +7,4 @@ A php script lives on your Asterisk server (hosted up by apache) that, when it's
 The sketch code is easy...simply trigger a client connection to the Asterisk server when a button is pushed, motion sensor tripped, or ultra sonic range finder measures a particular distance (that part is up to you). As long as the Arduino's IP matches the allowed IP configured in the php script, your phone should ring.
 
 ### Details
-http://www.nerdybynature.com/2010/09/01/br-r-r-r-r-ing-its-your-arduino/
+https://nerdybynature.com/arduino/2010/09/10/br-r-r-r-r-ing-its-your-arduino.html
